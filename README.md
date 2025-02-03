@@ -27,6 +27,3 @@ I’ll be working on projects related to **Web Development** and **Software Engi
 
 ### 📫 Let's Connect  
 If you're into **software engineering or Cycleball**, or just want to chat, feel free to reach out!  
-
-You can find me here:  
-- [LinkedIn](https://www.linkedin.com/in/rogerreuteler)
