@@ -8,7 +8,7 @@ Hey there! I'm passionate about **Cycleball** and **software development**.
 I'm currently pursuing my **Bachelor's degree in Software Engineering** 🧑‍🎓  
 When I’m not studying for my **Bachelor's degree**, you’ll probably find me on a **Cycleball court** or training for my **half-marathon**.  
 
-I’m from **Switzerland** 🇨🇭 and I speak **German**, **Swiss German**, and **English**.  
+I’m from **Switzerland** 🇨🇭 and I speak **Swiss German**, **German**, and **English**.  
 
 ### 👨‍💻 Technical Skills & Interests  
 - **SELECT * FROM SQL;** ❤️  
