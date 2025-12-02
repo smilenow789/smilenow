@@ -1,29 +1,42 @@
-# 🚴‍♂️⚽ Welcome to My GitHub!  
+# 🚴‍♂️⚽ Welcome to My GitHub!
 
-## About Me  
+## Hi there, I'm Roger! 👋
 
-Hey there! I'm passionate about **Cycleball** and **software development**.  
-  Yes, Cycleball is soccer on a **bicycle** ❤️  
+I'm a passionate **Software Engineering Student** from **Switzerland** 🇨🇭.
+When I'm not writing code or studying for my Bachelor's degree, you'll find me on the court playing **Cycleball** (yes, that's soccer on a bicycle! ❤️) or training for my next athletic challenge.
 
-I'm currently pursuing my **Bachelor's degree in Software Engineering** 🧑‍🎓  
-When I’m not studying for my **Bachelor's degree**, you’ll probably find me on a **Cycleball court** or training for my **half-marathon**.  
+### 👨‍💻 Tech Stack & Skills
 
-I’m from **Switzerland** 🇨🇭 and I speak **Swiss German**, **German**, and **English**.  
+I love building efficient backends and interactive applications.
+**`SELECT * FROM SQL;` ❤️**
 
-### 👨‍💻 Technical Skills & Interests  
-- **SELECT * FROM SQL;** ❤️  
-- **Java & Object-Oriented Programming**  
-- **Web Development**  
-- **Software Engineering (Requirements Engineering, Specification, and more...)**  
+* **Languages:** Java, C# (Unity), Python, SQL, HTML/CSS
+* **Cloud & DevOps:** Google Cloud Platform (Cloud Run, Vertex AI), Firebase, Docker, Terraform
+* **Concepts:** OOP, Agile Software Development (Scrum), REST APIs
 
-### 🎯 Current Goals  
-- 🏆 Compete in a **half-marathon** (September 2025)  
-- 📚 Prepare for exams to **achieve my Bachelor's degree**  
-- 💡 Work on software projects to apply my learning  
+### 🚀 Featured Projects
 
-### 📂 Projects (Coming Soon 🚀)  
-I’ll be working on projects related to **Web Development** and **Software Engineering**—stay tuned!  
-  🤫 **Sneak peek?** -> I'm building a **custom webpage** to summarize my studies—more details soon! 🤫
+#### 📱 [Study Run](https://study-run.roger-online.ch) (soon Live)
+*An educational endless runner game that turns PDF scripts into quiz questions using AI.*
+* **Tech:** Unity (C#), Python (Flask), Google Vertex AI (Gemini), Firestore, Cloud Run.
+* **Highlights:**
+    * Implemented a serverless backend architecture using **Google Cloud Run**.
+    * Integrated **Generative AI** to analyze PDFs and generate questions on the fly.
+    * Secured API costs using server-side credit checks and architecture best practices.
 
-### 📫 Let's Connect  
-If you're into **software engineering or Cycleball**, or just want to chat, feel free to reach out!  
+#### 🌐 [My Portfolio Website](https://roger-online.ch)
+*A personal landing page to showcase my curriculum, projects, and hobbies.*
+* **Tech:** HTML5, CSS3, Bootstrap 5.
+
+### 🎯 Current Goals
+
+* 🏊🚴🏃 Train for my first **Triathlon (Olympic Distance)** – Target: **June 2026**
+* 🎓 Complete my **Bachelor's degree in Software Engineering** (2027)
+* ☁️ Deepen my knowledge in **Java**, **C#**, **Python**, **Cloud Computing** and **DevOps**
+
+### 📫 Let's Connect
+
+If you're into **Software Engineering**, **Pragramming**, or just want to know how Cycleball actually works, feel free to reach out!
+
+* 🌐 **Website:** [roger-online.ch](https://roger-online.ch)
+* 📧 **Email:** [roger@roger-online.ch](mailto:roger@roger-online.ch)
